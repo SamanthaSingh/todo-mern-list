@@ -1,3 +1,6 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/SamanthaSingh/todo-mern-list-client.git
+[submodule "todo-mern-list-client"]
+	path = todo-mern-list-client
+	url = https://github.com/SamanthaSingh/todo-mern-list-client.git
